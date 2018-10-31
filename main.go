@@ -18,7 +18,6 @@ type test1 struct {
 
 var testA *test1 = &test1{1, 2}
 
-
 func main() {
 
 	fmt.Println("main func")
